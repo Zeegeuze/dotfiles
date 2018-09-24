@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = wlj
+	email = wouter_verhaeghe@hotmail.com
 	name = Wouter Verhaeghe
